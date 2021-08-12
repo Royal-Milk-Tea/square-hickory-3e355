@@ -1,4 +1,6 @@
-baseURL = ""
+
+
+TextbaseURL = ""
 defaultContentLanguage = "en"
 theme = "ublogger"
 themesDir = "themes"
